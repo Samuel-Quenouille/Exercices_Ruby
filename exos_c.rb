@@ -29,7 +29,7 @@ year_today = Time.now.year
     puts year
 end
 
-# Écris un programme exo_10.rb qui demande son année de naissance à l'utilisateur et qui va afficher chaque année depuis son année de naissance jusqu'aujourd'hui. Pour chaque année affichée, le programme devra annoncer l'âge que l'utilisateur avait cette année-là.
+# Écris un programme qui demande son année de naissance à l'utilisateur et qui va afficher chaque année depuis son année de naissance jusqu'aujourd'hui. Pour chaque année affichée, le programme devra annoncer l'âge que l'utilisateur avait cette année-là.
 puts "=== Exo 05 ==="
 puts "Bonjour, quelle est ton année de naissance ?"
 user_year_of_birth = gets.to_i
@@ -47,7 +47,7 @@ year_today = Time.now.year
     end
 end
 
-# Écris un programme exo_11.rb qui va demander son âge à l'utilisateur, et qui, pour chaque année depuis sa naissance, dira "Il y a X ans, tu avais Y ans".
+# Écris un programme qui va demander son âge à l'utilisateur, et qui, pour chaque année depuis sa naissance, dira "Il y a X ans, tu avais Y ans".
 puts "=== Exo 06 ==="
 puts "Bonjour, quelle est ton année de naissance ?"
 user_year_of_birth = gets.to_i
@@ -66,7 +66,7 @@ year_today = Time.now.year
     end
 end
 
-# Écris un programme exo_12.rb qui va faire la même chose, sauf que si X et Y sont égaux, il dira "Il y a n ans, tu avais la moitié de l'âge que tu as aujourd'hui".
+# Écris un programme qui va faire la même chose, sauf que si X et Y sont égaux, il dira "Il y a n ans, tu avais la moitié de l'âge que tu as aujourd'hui".
 puts "=== Exo 07 ==="
 puts "Bonjour, quelle est ton année de naissance ?"
 user_year_of_birth = gets.to_i

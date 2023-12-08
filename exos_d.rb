@@ -47,7 +47,7 @@ puts "Voici la pyramide :"
     puts
 end
 
-# Reprends ton programme exo_15.rb et fais un programme pyramide.rb qui montera au lieu de descendre :
+# Reprends ton programme Exo_03 et fais un programme qui va sortir une pyramide qui montera au lieu de descendre :
 puts "=== Exo 04 ==="
 puts "Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ? (Choisi un nombre entre 1 et 25) "
 print "> "
