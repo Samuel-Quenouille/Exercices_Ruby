@@ -6,7 +6,7 @@ Séries d'éxercices pour apprendre les bases en Ruby :
 - les conditions
 
 Pour éxecuter le programme dans le Terminal :
-`ruby exos.rb`
-`ruby exos_b.rb`
-`ruby exos_c.rb`
-`ruby exos_d.rb`
+- `ruby exos.rb`
+- `ruby exos_b.rb`
+- `ruby exos_c.rb`
+- `ruby exos_d.rb`
