@@ -1,6 +1,6 @@
 # Exercices_Ruby
 
-Séries d'éxercices pour apprendre les bases en Ruby :
+Séries d'éxercices pour apprendre les bases de Ruby :
 - les variables
 - les boucles
 - les conditions
